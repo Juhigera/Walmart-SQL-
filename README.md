@@ -39,6 +39,7 @@ These features helped identify which periods had the highest sales and ratings.
 Performed extensive SQL queries to answer the business questions listed below, covering product, sales, and customer insights.
 
 📊 Business Questions to Answer
+
 Generic Questions
 
 How many distinct cities are present in the dataset?
